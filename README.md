@@ -15,6 +15,7 @@ País/Country/Pays: 🇧🇷
   <img align="center" alt="tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 </div>
+<img src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="100" width="100">
 
 
 
