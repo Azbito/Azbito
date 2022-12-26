@@ -16,7 +16,8 @@ País/Country/Pays: 🇧🇷
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 </div>
 <br />
-<img src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="500" width="500">
+<br />
+<img src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="300" width="300">
 
 
 
