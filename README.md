@@ -1,4 +1,4 @@
-<div class="d-flex align-items-center justify-content-center">
+<div align="center">
 
 Nome/Name/Nom: <strong>Thiago G. Roque</strong>   
 <br />
@@ -23,11 +23,3 @@ País/Country/Pays: 🇧🇷
 <br />
 <br />
 <img src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="300" width="300">
-
-
-
-![Github_stats](https://github-readme-stats.vercel.app/api?username=Azbito&count_private=true&show_icons=true&theme=radical
-)
-![Top_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azbito&show_icons=true&theme=radical)
-
-
