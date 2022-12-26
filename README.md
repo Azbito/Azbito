@@ -6,7 +6,7 @@ Idade/Age/Âge: <strong>18</strong>
 <br />
 <br />
 País/Country/Pays: 🇧🇷
-</div>
+
 
 <br/>
 <br />
@@ -23,3 +23,4 @@ País/Country/Pays: 🇧🇷
 <br />
 <br />
 <img src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="300" width="300">
+</div>
