@@ -1,4 +1,4 @@
-<div style="display: center">
+<div class="d-flex align-items-center justify-content-center">
 
 Nome/Name/Nom: <strong>Thiago G. Roque</strong>   
 <br />
