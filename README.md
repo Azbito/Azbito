@@ -1,6 +1,6 @@
 <div align="center">
 
-Nome/Name/Nom: <strong>Thiago G. Roque</strong>   
+<img align="center" alt="id" src="https://media.discordapp.net/attachments/1052319296644194324/1057315963890049095/id-card.png"/> <strong>Thiago G. Roque</strong>   
 <br />
 Idade/Age/Âge: <strong>18</strong>
 <br />
