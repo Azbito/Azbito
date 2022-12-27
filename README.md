@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="id" height="20" width="20" src="https://media.discordapp.net/attachments/1052319296644194324/1057315963890049095/id-card.png"/>
+<img alt="id" height="30" width="30" src="https://media.discordapp.net/attachments/1052319296644194324/1057315963890049095/id-card.png"/>
 <br />
   <strong>Thiago G. Roque</strong>   
 <br />
