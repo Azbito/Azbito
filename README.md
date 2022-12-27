@@ -1,14 +1,13 @@
 <div align="center">
 
-<img align="center" alt="id" size="30" src="https://media.discordapp.net/attachments/1052319296644194324/1057315963890049095/id-card.png"/> <strong>Thiago G. Roque</strong>   
+<img align="center" alt="id" size="30" margin="0 0 10 0" src="https://media.discordapp.net/attachments/1052319296644194324/1057315963890049095/id-card.png"/> <strong>Thiago G. Roque</strong>   
 <br />
-<img align="center" alt="age" size="30" src="https://cdn.discordapp.com/attachments/1052319296644194324/1057316438840446996/hourglass.png" /> <strong>18</strong>
+Idade/Age/Âge: <strong>18</strong>
 <br />
 <br />
-  
-<img align="center" alt="age" size="30" src="https://cdn.discordapp.com/attachments/1052319296644194324/1057316649226731601/placeholder.png" /> <strong> Parana, Brazil, Planet, Solar System </strong>
+País/Country/Pays: BR
 
-<strong color="cyan">
+<strong>
   Languages  
 </strong>
 <br />
