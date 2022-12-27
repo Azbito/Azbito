@@ -10,8 +10,9 @@ País/Country/Pays: BR
 <strong>
   Languages  
 </strong>
+<img align="center" alt="BR" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/4087/4087482.png" />
+
 <div style="display: inline_block">
-  <img align="center" alt="BR" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4087/4087482.png" />
   
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
