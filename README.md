@@ -11,7 +11,9 @@ País/Country/Pays: BR
   Languages  
 </strong>
 <br />
-<img align="center" alt="BR" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/4087/4087482.png" />
+  
+<img align="center" alt="BR" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/4087/4087482.png" /> 
+<img align="center" alt="BR" height="80" width="80" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />
 <img align="center" alt="BR" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/168/168005.png" />
 <img align="center" alt="BR" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/491/491560.png" />
 
