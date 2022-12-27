@@ -10,7 +10,11 @@ País/Country/Pays: BR
 <strong>
   Languages  
 </strong>
-<img align="center" alt="BR" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/4087/4087482.png" />
+<br />
+<img align="center" alt="BR" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/4087/4087482.png" />
+<img align="center" alt="BR" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/168/168005.png" />
+<img align="center" alt="BR" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/491/491560.png" />
+
 
 <div style="display: inline_block">
   
