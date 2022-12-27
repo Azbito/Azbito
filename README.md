@@ -25,7 +25,7 @@
 <img align="center" alt="separator" height="30" width="30" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />
 <img align="center" alt="FR" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/168/168005.png" />
 <img align="center" alt="separator" height="30" width="30" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />
-  <hr style="border: none; border-top: 2px dotted black" />
+<hr style="border: none; border-top: 1px dotted black" />
 
 
 <div style="display: inline_block">
@@ -54,7 +54,10 @@
   <img align="center" alt="tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
+  <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />
+  <hr style="border: none; border-top: 1px dotted black" />
+  
+<a href="https://www.linkedin.com/in/thiago-roque-b39078236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   </div>
 <br />
