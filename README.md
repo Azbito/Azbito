@@ -1,13 +1,18 @@
 <div align="center">
 
 <img alt="id" height="30" width="30" src="https://media.discordapp.net/attachments/1052319296644194324/1057315963890049095/id-card.png"/>
-<br />
+   
   <strong>Thiago G. Roque</strong>   
+
+<img alt="age" height="30" width="30" src="https://cdn.discordapp.com/attachments/1052319296644194324/1057316438840446996/hourglass.png" />
+
+ <strong>18</strong>
+
+<img alt="age" height="30" width="30" src="https://cdn.discordapp.com/attachments/1052319296644194324/1057316649226731601/placeholder.png" />
 <br />
-Idade/Age/Âge: <strong>18</strong>
+  <strong>Parana, BR</strong>
 <br />
-<br />
-País/Country/Pays: BR
+  <hr style="border: none; border-top: 2px dotted black" />
 
 <strong>
   Languages  
@@ -20,6 +25,7 @@ País/Country/Pays: BR
 <img align="center" alt="separator" height="30" width="30" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />
 <img align="center" alt="FR" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/168/168005.png" />
 <img align="center" alt="separator" height="30" width="30" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />
+  <hr style="border: none; border-top: 2px dotted black" />
 
 
 <div style="display: inline_block">
