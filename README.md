@@ -59,7 +59,7 @@
 <hr style="border: none; border-top: 2px dotted black" />
 <img height="30" width="30" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" /> 
 
-<strong>Azzin#2004</strong>
+<strong>Azzin#2982</strong>
    
 <br />
    <a href="https://www.linkedin.com/in/thiago-roque-b39078236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
