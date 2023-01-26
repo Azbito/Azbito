@@ -47,8 +47,7 @@
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
-  <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
-  <img align="center" alt="Lua" height="20" width="20" src='https://cdn.discordapp.com/attachments/1066766645533618238/1067976683124162621/Sem_Titulo-2.png' />
+  <img align="center" alt="Lua" height="30" width="30" src='https://cdn.discordapp.com/attachments/1066766645533618238/1067976683124162621/Sem_Titulo-2.png' />
   <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
