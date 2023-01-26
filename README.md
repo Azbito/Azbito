@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <div align="center">
 
 <img alt="id" height="30" width="30" src="https://media.discordapp.net/attachments/1052319296644194324/1057315963890049095/id-card.png"/>
@@ -44,6 +47,7 @@
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
+<i class="devicon-lua-plain"></i>
 
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
