@@ -30,7 +30,7 @@
 <img align="center" alt="separator" height="30" width="30" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />
   <hr style="border: none; border-top: 2px dotted black" />
 
-
+   <strong> Abilities </strong>
 <div style="display: inline_block">
   <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
