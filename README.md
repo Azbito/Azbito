@@ -3,12 +3,14 @@
 
 <div align="center">
 
+   # Bio
+   
 <img alt="id" height="30" width="30" src="https://media.discordapp.net/attachments/1052319296644194324/1057315963890049095/id-card.png"/>
    
   <strong>Thiago G. Roque</strong>   
-
+   
 <img alt="age" height="30" width="30" src="https://cdn.discordapp.com/attachments/1052319296644194324/1057316438840446996/hourglass.png" />
-
+   
  <strong>18</strong>
 
 <img alt="age" height="30" width="30" src="https://cdn.discordapp.com/attachments/1052319296644194324/1057316649226731601/placeholder.png" />
@@ -17,9 +19,9 @@
 <br />
   <hr style="border: none; border-top: 2px dotted black" />
 
-<strong>
-  Languages  
-</strong>
+
+ # Languages  
+
 <br />
 <img align="center" alt="separator" height="30" width="30" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
 <img align="center" alt="BR" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/4087/4087482.png" /> 
@@ -30,8 +32,8 @@
 <img align="center" alt="separator" height="30" width="30" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />
   <hr style="border: none; border-top: 2px dotted black" />
 
-   <strong> Abilities </strong>
-<div style="display: inline_block">
+   # Abilities
+<div>
   <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
   <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
@@ -60,7 +62,9 @@
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
   </div>
-<hr style="border: none; border-top: 2px dotted black" />
+   
+<hr style="border: none; border-top: 1px dotted black" />
+   
 <img height="30" width="30" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" /> 
 
 <strong>Azzin#2982</strong>
