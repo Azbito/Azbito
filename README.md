@@ -64,9 +64,6 @@
   </div>
    
 <hr style="border: none; border-top: 1px dotted black" />
-<br />
-   <a href="https://www.linkedin.com/in/thiago-roque-b39078236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<br />
    <br />
    <img src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="300" width="300">
 </div>
