@@ -44,7 +44,7 @@
   <img align="center" alt="Next.js" height="30" width="30" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" />
   <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
 
-  <img align="center" alt="Axios" height="60" width="60" src="https://avatars.githubusercontent.com/u/32372333?s=400&v=4" />
+  <img align="center" alt="Axios" height="50" width="50" src="https://avatars.githubusercontent.com/u/32372333?s=400&v=4" />
   <img align="center" alt="separator" height="20" width="20" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
