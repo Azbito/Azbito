@@ -1,6 +1,6 @@
-# Bio
+# Bio<img align="right" src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="250" width="250"> 
+
 ![GitHub Org's stars](https://img.shields.io/github/stars/Azbito?style=social)
-<img align="right" src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="250" width="250"> 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <strong>Thiago G. Roque</strong>   
