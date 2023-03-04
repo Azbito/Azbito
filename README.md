@@ -37,5 +37,7 @@
   <img align="center" alt="tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
   </div>
   <br />
-  <img align="center" alt"pixelart" height="32" width="32" src="https://cdn.discordapp.com/attachments/1047721045655814288/1080039064591421470/Black_Plague_Doctor.png" />
+  
+  ![attack](https://user-images.githubusercontent.com/101950809/222868128-ee7f208b-7c7d-42e1-a427-c8cef9a92930.gif)
+  <p>that's it, folks</p>
 </div>
