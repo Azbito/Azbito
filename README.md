@@ -24,14 +24,17 @@
 ## Abilities
 <div>
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Next.js" height="30" width="30" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" />
   <img align="center" alt="Axios" height="50" width="50" src="https://avatars.githubusercontent.com/u/32372333?s=400&v=4" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="styled components" height="30" width="30" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />
   <img align="center" alt="Lua" height="30" width="30" src='https://cdn.discordapp.com/attachments/1066766645533618238/1067976683124162621/Sem_Titulo-2.png' />
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+ &nbsp;
+  <img align="center" alt="Love2d" height="30" width="30" src="https://cdn.discordapp.com/attachments/1052319296644194324/1084313102960558130/unnamed.png" />
   <br />
   <img align="center" alt="windows" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/232/232411.png">  
   <img align="center" alt="tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
