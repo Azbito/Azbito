@@ -27,6 +27,9 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Next.js" height="30" width="30" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" />
+   &nbsp;
+
+  <img align="center" alt="API Rest" height="35" width="40" src="https://media.discordapp.net/attachments/972891315413057636/1087965346339766403/rest-api-icon.png" />
   <img align="center" alt="Axios" height="50" width="50" src="https://avatars.githubusercontent.com/u/32372333?s=400&v=4" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
