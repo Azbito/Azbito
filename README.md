@@ -9,7 +9,7 @@
 ## Education
 
 <h5>Pixelart student at Udemy</h5>
-<h5>Lua + LÖVE student at Udemy</h5>
+<h5>📜 Lua + LÖVE Programming Course Completed</h5>
 <p>Studying front-end since november, 2022</p>
 <div>
 <img align="center" alt="separator" height="30" width="30" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
