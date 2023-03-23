@@ -8,9 +8,10 @@
 
 ## Education
 
-<h5>Pixelart student at Udemy</h5>
-<h5>📜 Lua + LÖVE Programming Course Completed</h5>
 <p>Studying front-end since november, 2022</p>
+<h5>Pixelart student at Udemy</h5>
+<h5>📜 Lua + LÖVE Programming Course completed</h5>
+
 <div>
 <img align="center" alt="separator" height="30" width="30" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
 <img align="center" alt="BR" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/4087/4087482.png" /> 
