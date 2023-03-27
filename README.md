@@ -1,16 +1,18 @@
-# Bio<img align="right" src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="250" width="250"> 
+# Bio
 
-![GitHub Org's stars](https://img.shields.io/github/stars/Azbito?style=social)
-
+<img align="right" src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="250" width="250"> 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<strong>Thiago G. Roque</strong>   
-<p><strong>18 years old</strong></p>
+Thiago G. Roque
+<br />
+18 years old
 
 ## Education
 
-<p>Studying front-end since november, 2022</p>
-<h5>Pixelart student at Udemy</h5>
-<h5>📜 Lua + LÖVE Programming Course completed</h5>
+Studying front-end since november, 2022
+<br />
+Pixelart student at Udemy
+<br />
+📜 Lua + LÖVE Programming Course completed at Udemy
 
 <div>
 <img align="center" alt="separator" height="30" width="30" src='https://cdn-icons-png.flaticon.com/512/8215/8215370.png' />  
@@ -42,6 +44,10 @@
   <br />
   <img align="center" alt="windows" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/232/232411.png">  
   <img align="center" alt="tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
+  <br />
+  <br />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azbito&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=azbito&show_icons=True&hide_border=true&count_private=true&theme=tokyonight" height="150">
   </div>
   <br />
   
