@@ -44,13 +44,9 @@ Pixelart student at Udemy
   <br />
   <img align="center" alt="windows" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/232/232411.png">  
   <img align="center" alt="tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
-  <br />
-  <br />
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azbito&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=azbito&show_icons=True&hide_border=true&count_private=true&theme=tokyonight" height="150">
-  </div>
-  <br />
-  
-  ![attack](https://user-images.githubusercontent.com/101950809/222868128-ee7f208b-7c7d-42e1-a427-c8cef9a92930.gif)
-  <p>that's it, folks</p>
 </div>
+<br />
+<div>
+  <img src="https://user-images.githubusercontent.com/101950809/222868128-ee7f208b-7c7d-42e1-a427-c8cef9a92930.gif" alt="azbito" />
+  <p>that's it, folks</p>
+ </div>
