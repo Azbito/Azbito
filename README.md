@@ -53,8 +53,8 @@ Pixelart student at Udemy
   #
   
 <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/101950809/230960885-029dd306-f04e-4465-b165-5dbe54a207ce.png" alt="my discord" width="50%" />
+
+<img src="https://user-images.githubusercontent.com/101950809/230964168-f93bbc1b-eb60-40da-a38a-4a41e7b5616e.png" alt="my discord" width="50%" />
 
 </div>
 
