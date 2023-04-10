@@ -1,6 +1,10 @@
+<div align="center">
+
+  <img src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="250" width="250"> 
+
+  
 # Bio
 
-<img align="right" src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="250" width="250"> 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 Thiago G. Roque
 <br />
@@ -45,8 +49,13 @@ Pixelart student at Udemy
   <img align="center" alt="windows" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/232/232411.png">  
   <img align="center" alt="tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
 </div>
-<br />
-<div>
-  <img src="https://user-images.githubusercontent.com/101950809/222868128-ee7f208b-7c7d-42e1-a427-c8cef9a92930.gif" alt="azbito" />
-  <p>that's it, folks</p>
- </div>
+
+  #
+  
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/101950809/230960885-029dd306-f04e-4465-b165-5dbe54a207ce.png" alt="my discord" width="50%" />
+
+</div>
+
+</div>
