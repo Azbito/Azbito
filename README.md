@@ -1,3 +1,5 @@
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/azbito?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+
 <div align="center">
 
   <img src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="250" width="250"> 
@@ -51,11 +53,13 @@ Pixelart student at Udemy
 </div>
 
   #
-  
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/101950809/230964168-f93bbc1b-eb60-40da-a38a-4a41e7b5616e.png" alt="my discord" width="50%" />
-
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azbito&theme=tokyonight" alt="mystreak" width="415"/>
+   &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=azbito&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/101950809/230964168-f93bbc1b-eb60-40da-a38a-4a41e7b5616e.png" alt="my discord" width="50%" />
+</div>
 </div>
