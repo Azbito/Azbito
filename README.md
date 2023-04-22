@@ -47,6 +47,8 @@ Pixelart student at Udemy
   <img align="center" alt="Lua" height="30" width="30" src='https://cdn.discordapp.com/attachments/1066766645533618238/1067976683124162621/Sem_Titulo-2.png' />
  &nbsp;
   <img align="center" alt="Love2d" height="30" width="30" src="https://cdn.discordapp.com/attachments/1052319296644194324/1084313102960558130/unnamed.png" />
+  &nbsp;
+  <img align="center" alt="Defold" src="https://defold.com/images/logo/defold/logo_with_text/logo-ver-outline-white-160.png" height="30" width="25" />
   <br />
   <img align="center" alt="windows" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/232/232411.png">  
   <img align="center" alt="tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
