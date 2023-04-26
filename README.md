@@ -52,7 +52,9 @@ Pixelart student at Udemy
   <img align="center" alt="windows" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/232/232411.png">  
   <img align="center" alt="tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
 </div>
-  #
+  
+#
+  
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=azbito&theme=tokyonight" alt="mystreak" width="415"/>
    &nbsp;
