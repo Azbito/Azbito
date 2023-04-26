@@ -1,10 +1,9 @@
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/azbito?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 <div align="center">
-
-  <img src="https://thumbs.gfycat.com/DistinctAdmiredBactrian-max-1mb.gif" alt="yoshi" height="250" width="250"> 
-
   
+<img src="https://user-images.githubusercontent.com/101950809/234441209-2cf4b391-9bb0-43dc-9507-e6cc8229b8e7.png" alt="READ ME IS DECLARED, BUT NEVER READ" width="300"/>
+
 # Bio
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -53,7 +52,6 @@ Pixelart student at Udemy
   <img align="center" alt="windows" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/232/232411.png">  
   <img align="center" alt="tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
 </div>
-
   #
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=azbito&theme=tokyonight" alt="mystreak" width="415"/>
