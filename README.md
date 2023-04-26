@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/101950809/234441209-2cf4b391-9bb0-43dc-9507-e6cc8229b8e7.png" alt="READ ME IS DECLARED, BUT NEVER READ" width="300"/>
+<img src="https://user-images.githubusercontent.com/101950809/234441865-381eaf62-d8d1-4252-9286-b9ff4e9bc5b0.png" alt="READ ME IS DECLARED, BUT NEVER READ" width="300"/>
 
 # Bio
 
