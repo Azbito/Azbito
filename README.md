@@ -31,26 +31,10 @@ Pixelart student at Udemy
 
 ## Abilities
 <div>
-  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Next.js" height="30" width="30" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" />
-   &nbsp;
-
-  <img align="center" alt="API Rest" height="35" width="40" src="https://media.discordapp.net/attachments/972891315413057636/1087965346339766403/rest-api-icon.png" />
-  <img align="center" alt="Axios" height="50" width="50" src="https://avatars.githubusercontent.com/u/32372333?s=400&v=4" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="styled components" height="30" width="30" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />
-  <img align="center" alt="Lua" height="30" width="30" src='https://cdn.discordapp.com/attachments/1066766645533618238/1067976683124162621/Sem_Titulo-2.png' />
- &nbsp;
-  <img align="center" alt="Love2d" height="30" width="30" src="https://cdn.discordapp.com/attachments/1052319296644194324/1084313102960558130/unnamed.png" />
-  &nbsp;
-  <img align="center" alt="Defold" src="https://defold.com/images/logo/defold/logo_with_text/logo-ver-outline-white-160.png" height="30" width="25" />
-  <br />
-  <img align="center" alt="windows" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/232/232411.png">  
-  <img align="center" alt="tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
+  <strong>Technologies</strong>
+  <p>Typescript, Javascript, Lua, React, Next.JS, API Rest, HTML, CSS, SASS, Tailwind CSS, LÖVE2D, Defold.</p>
+  <strong>Tools</strong>
+  <p>Visual Studio Code, Linux</p>
 </div>
   
 #
@@ -60,3 +44,7 @@ Pixelart student at Udemy
 </div>
 
 </div>
+
+every little thing is gonna be alright
+<p>if it's not alright, it's not the end</p>
+<p>:]</p>
