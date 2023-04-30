@@ -21,7 +21,7 @@ Pixelart student at Udemy
 
   <p>Portuguese native</p>
   <p>English C2</p>
-  <p>French B1</p>
+  <p>French B2</p>
   
 ## Abilities
 <div>
