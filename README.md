@@ -38,7 +38,3 @@ Pixelart student at Udemy
 </div>
 
 </div>
-
-every little thing is gonna be alright
-<p>if it's not alright, it's not the end</p>
-<p>:]</p>
