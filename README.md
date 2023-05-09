@@ -15,7 +15,9 @@ Thiago G. Roque
 
 Studying front-end since november, 2022
 <br />
-Pixelart student at Udemy
+Studying Bachelor of Software Engineer at UNOPAR 
+<br />
+Studying Pixelart at Udemy
 <br />
 📜 Lua + LÖVE Programming Course completed at Udemy
 
