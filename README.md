@@ -23,7 +23,7 @@ Studying Pixelart at Udemy
 
   <p>Portuguese native</p>
   <p>English C2</p>
-  <p>French B2</p>
+  <p>French C1</p>
   
 ## Abilities
 <div>
