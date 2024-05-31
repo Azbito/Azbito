@@ -15,3 +15,7 @@
 - Bachelor Software Engineering at UNOPAR
 - Ethical game hacking at Udemy
 - Reverse engineering at Udemy
+
+#
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azbito&layout=compact&hide=css,scss,cmake,html,tex&theme=dracula)
