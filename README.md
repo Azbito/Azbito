@@ -25,4 +25,4 @@
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azbito&layout=compact&hide=css,scss,cmake,html,tex&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azbito&layout=compact&hide=css,scss,cmake,html,tex,vue&theme=dracula)
